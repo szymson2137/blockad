@@ -9,3 +9,10 @@ realtime.luckyorange.com
 api.luckyorange.com
 tools.mouseflow.com
 cdn-test.mouseflow.com
+business.samsungusa.com
+metrics5.data.hicloud.com 
+advertising.twitter.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+advertising-api-eu.amazon.com
