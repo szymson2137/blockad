@@ -16,3 +16,4 @@ api.bugsnag.com
 app.bugsnag.com
 browser.sentry-cdn.com
 advertising-api-eu.amazon.com
+aax-eu.amazon-adsystem.com
